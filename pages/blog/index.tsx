@@ -48,7 +48,7 @@ export const getStaticProps: GetStaticProps = async (): Promise<
     return {
         props: {
             meta: {
-                title: "Blog posts",
+                title: "Статьи",
                 showSidebar: false,
                 showToc: false,
                 showComments: false,
