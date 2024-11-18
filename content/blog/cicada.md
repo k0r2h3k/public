@@ -119,7 +119,7 @@ smb: \> get "Notice from HR.txt"
 ```
 cat Notice\ from\ HR.txt
 ```
-![[Pasted image 20241103200108.png|400]]
+![[Pasted image 20241103200108.png]]
 
 Заметки для HR.txt
 ```
