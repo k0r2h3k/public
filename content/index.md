@@ -1,9 +1,6 @@
 ---
-title: Welcome to my blog!
+title: Привет!  Давай знакомиться!
 ---
-
-**Привет!  Давай знакомиться!**
-
 Я **Korzhek**, моё увлечение и работа — **кибербезопасность**.  
 
 ![[DALL·E 2024-11-18 18.18.59 - An angry monster cookie character inspired by Sesame Street, reimagined in the dark gothic style of Diablo 2. The character features a menacing blue f.webp]]
