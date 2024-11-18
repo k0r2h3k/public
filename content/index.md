@@ -19,3 +19,8 @@ title: Привет!  Давай знакомиться!
 Связаться со мной можно через телеграмм или email:
 - @korzhd
 - korzhek.d@gmail.com
+
+Закинуть на печеньки можно USDT TON по адресу:
+```
+UQDCz21-M3p0JBEKE6sKijLWmc2XgdjqgBJywgEvBni-Z8_E
+```
